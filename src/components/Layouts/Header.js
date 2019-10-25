@@ -5,7 +5,7 @@ export default props => {
     return (
         <AppBar position="static">
             <Toolbar>
-                <Typography variant="headline" color="inherit">Exercise Database</Typography>
+                <Typography  color="inherit">Exercise Database</Typography>
             </Toolbar>
         </AppBar>
     )
